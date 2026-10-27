@@ -1,4 +1,3 @@
-
 SNAPCLASS – AI Powered Attendance System
 
 An AI-powered attendance system for smart and efficient attendance management.
