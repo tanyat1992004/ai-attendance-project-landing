@@ -15,5 +15,4 @@ Technology Stack
 - JavaScript
 
 Deployment
-
 Hosted on Vercel.
